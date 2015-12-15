@@ -1,0 +1,28 @@
+name: ItWasEasy
+favicon: null
+layout_spectrum: 0.905281932791695
+typography_spectrum: 0.16413638996891677
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.28178343386389315
+  lightness: 0.8070258407387882
+  saturation: 0.79329499672167
+  rhythmicContrast: 0.9982882847543806
+purpose: []
